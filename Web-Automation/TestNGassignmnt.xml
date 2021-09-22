@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Demo1">
+	<test name="Test case1">
+		<classes>
+			<class name="com.sgtesng.dataprovider.TestNgAssignment1"></class>
+			<class name="com.sgtesng.dataprovider.TestNgAssignment2"></class>
+			<class name="com.sgtesng.dataprovider.TestNgAssignment3"></class>
+			<class name="com.sgtesng.dataprovider.TestNgAssignment4"></class>
+			<class name="com.sgtesng.dataprovider.TestNgAssignment5"></class>
+		</classes>
+	</test>
+</suite>
